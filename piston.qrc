@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Piston">
+        <file>Resources/ReferenceImage.PNG</file>
+    </qresource>
+</RCC>
